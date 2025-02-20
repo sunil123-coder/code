@@ -1,2 +1,2 @@
-# code
-This is my first repository
+# Code
+This is my first Git repository
